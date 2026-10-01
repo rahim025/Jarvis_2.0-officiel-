@@ -1,0 +1,21 @@
+# ===== J.A.R.V.I.S (Linux) — Rahim Batchabi =====
+# Remplis les clés ci-dessous, sans guillemets ni espaces autour du "=".
+
+# OBLIGATOIRE — IA principale (aistudio.google.com/apikey)
+GEMINI_API_KEY=
+
+# Optionnel — IA rapide Groq (console.groq.com/keys)
+GROQ_API_KEY=
+
+# Optionnel — Grok (console.x.ai)
+XAI_API_KEY=
+
+# Optionnel — recherche YouTube (console.cloud.google.com, YouTube Data API v3)
+YOUTUBE_API_KEY=
+
+# Optionnel — recherche web (serpapi.com)
+SERPAPI_API_KEY=
+
+# Optionnel — domotique Home Assistant
+HA_URL=http://homeassistant.local:8123
+HA_TOKEN=
